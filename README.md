@@ -21,7 +21,7 @@ This application allows users to manage tasks through the command line.
 
 ## Run 
 
-```cmd
+```bash
 node main.js 
 ```
 ---
