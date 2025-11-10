@@ -4,7 +4,7 @@ A simple command-line task manager application written in **node.js** with color
 
 ## Description 
 
-This application allows users to manage tasks through the command line.
+This application allows users to manage tasks through the command line. Each task is saved in a separate file, making it easy to organize and edit task lists.
 
 ## Features 
 
