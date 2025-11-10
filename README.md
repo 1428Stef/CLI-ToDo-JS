@@ -19,6 +19,11 @@ This application allows users to manage tasks through the command line.
 - kleur 
 - prompt-sync 
 
+## Run 
+
+```cmd
+node main.js 
+```
 ---
 
 Tasks are saved as separate files, which simplifies task management and storage. 
