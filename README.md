@@ -28,4 +28,4 @@ node main.js
 
 Tasks are saved as separate files, which simplifies task management and storage. 
 
-`1428 ☆*: .｡. o(≧▽≦)o .｡.:*☆`
+`1428 and THK ☆*: .｡. o(≧▽≦)o .｡.:*☆`
